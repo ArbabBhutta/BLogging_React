@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BLogging_React/static/css/main.4a1ff19f.css",
+    "main.js": "/BLogging_React/static/js/main.e5ea95bf.js",
+    "static/media/marvin-meyer-SYTO3xs06fU-unsplash.jpg": "/BLogging_React/static/media/marvin-meyer-SYTO3xs06fU-unsplash.482f33f2615ecba89f77.jpg",
+    "static/media/erik-odiin-jbQvJx2EWnU-unsplash.jpg": "/BLogging_React/static/media/erik-odiin-jbQvJx2EWnU-unsplash.19b65753f617746b3aa5.jpg",
+    "static/media/karsten-winegeart-fd1cQ3mmBTE-unsplash.jpg": "/BLogging_React/static/media/karsten-winegeart-fd1cQ3mmBTE-unsplash.e5fdbec8170970fa2109.jpg",
+    "static/media/metaverse-7252754_1920.jpg": "/BLogging_React/static/media/metaverse-7252754_1920.1b39be2d6e5564227a0f.jpg",
+    "static/media/camera-2925776_1920.jpg": "/BLogging_React/static/media/camera-2925776_1920.4694c1cd6dca94442610.jpg",
+    "static/media/pexels-nikolaos-dimou-2473183.jpg": "/BLogging_React/static/media/pexels-nikolaos-dimou-2473183.30a9badae03616abaf97.jpg",
+    "static/media/finger-2956974_1920.jpg": "/BLogging_React/static/media/finger-2956974_1920.ab3237919bb601b09e77.jpg",
+    "static/media/home-office-2804083_1280.jpg": "/BLogging_React/static/media/home-office-2804083_1280.08539a8966502b531f38.jpg",
+    "index.html": "/BLogging_React/index.html",
+    "main.4a1ff19f.css.map": "/BLogging_React/static/css/main.4a1ff19f.css.map",
+    "main.e5ea95bf.js.map": "/BLogging_React/static/js/main.e5ea95bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a1ff19f.css",
+    "static/js/main.e5ea95bf.js"
+  ]
+}
