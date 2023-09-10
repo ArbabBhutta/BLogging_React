@@ -1,0 +1,14 @@
+.NavBar{
+    background-color:  #5f2b34;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.NavItems{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+
+}

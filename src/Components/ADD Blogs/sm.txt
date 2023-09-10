@@ -1,0 +1,47 @@
+// data.js
+
+// Define an empty array to store objects
+const dataArray = [];
+
+// Function to input a value into an object and push it to the array
+function addObjectToArray(name, age, otherProperty) {
+  // Create the object with the provided properties
+  const newObject = {
+    name: name,
+    age: age,
+    otherProperty: otherProperty,
+  };
+
+  // Push the object to the array
+  dataArray.push(newObject);
+}
+
+// Export the array and the function to be used in other files
+export { dataArray, addObjectToArray };
+
+
+
+// App.js
+
+import React from 'react';
+import { addObjectToArray } from './data'; // Import the function from the external file
+
+function App() {
+  const handleAddObject = () => {
+    // Example usage: Adding a new object with values
+    const name = 'John Doe';
+    const age = 30;
+    const otherProperty = 'Some value';
+
+    // Call the function to add the object to the array
+    addObjectToArray(name, age, otherProperty);
+  };
+
+  return (
+    <div>
+      <button onClick={handleAddObject}>Add Object to Array</button>
+    </div>
+  );
+}
+
+export default App;

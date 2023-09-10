@@ -1,0 +1,44 @@
+.contact_contanier{
+    text-align: center;
+    background-color: #421820 ;
+    color: white;
+  }
+  .Submit{
+    background-color: white;
+    color: #421820;
+  }
+  .Submit:hover{
+    background-color:#421820;
+    color: white;
+    border: 1px solid white;
+  }
+  /* blogs start from here  */
+  .container_img {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #421820;
+    background-color: #5f2b34;
+  }
+  .container a{
+    color: #421820;
+    text-decoration: none;
+  }
+  img{
+    border-radius: 20px;
+  }
+  .zoomer {
+    transition: transform 0.5s;
+  }
+  
+  .zoomer:hover {
+    transform: scale(1.1);
+  }
+  
+  

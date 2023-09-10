@@ -1,0 +1,36 @@
+.zoomer {
+    transition: transform 0.5s;
+  }
+  
+  .zoomer:hover {
+    transform: scale(1.1);
+  }
+  .btn_ReadMore{
+    background-color: #421820;
+    color: white;
+  }
+  .btn_ReadMore:hover{
+    background-color: white;
+    color: #421820;
+    border: 1px solid #421820 ;
+  }  
+  .blogs_image{
+    border-radius: 50px;
+    padding: 10px;
+  }
+  .link_Decor{
+    text-decoration: none;
+    color: black;
+  }
+  .singleBlogsImg{
+    border-radius: 50px;
+    padding: 5px;
+   
+  }
+  input{
+    width: 80%;
+    height: 38px;
+    border-radius: 10px;
+    margin-right: 5px;
+  }
+ 
